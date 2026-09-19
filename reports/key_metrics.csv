@@ -1,0 +1,14 @@
+metric,value
+total_grievances,126974
+unique_categories,31
+unique_subcategories,179
+unique_wards,199
+closed_rate_percent,86.17
+top_category,Electrical
+top_category_share_percent,33.19
+top_subcategory,Street Light Not Working
+top_subcategory_share_percent,31.38
+top_ward,Horamavu
+top_2_category_share_percent,63.23
+top_3_category_share_percent,74.36
+top_5_category_share_percent,85.38

@@ -1,0 +1,6 @@
+category,observations,baseline_mae,model_mae,baseline_rmse,model_rmse,model_r2,mae_improvement_percent,beats_baseline
+Electrical,142,47.93,62.23,61.14,74.25,-0.9475,-29.83,False
+Solid Waste (Garbage) Related,142,115.38,139.7,151.89,191.15,-1.0436,-21.08,False
+Road Maintenance(Engg),142,49.72,158.75,102.09,166.2,-34.567,-219.25,False
+veterinary,142,9.97,11.16,13.06,13.95,-0.0581,-12.03,False
+Forest,142,24.41,21.62,30.85,29.36,-1.7833,11.45,True

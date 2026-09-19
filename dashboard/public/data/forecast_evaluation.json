@@ -1,0 +1,12 @@
+{
+  "model": "HistGradientBoostingRegressor",
+  "baseline": "7-day seasonal-naive",
+  "baseline_mae": 202.93,
+  "model_mae": 181.42,
+  "baseline_rmse": 248.97,
+  "model_rmse": 224.21,
+  "mae_improvement_percent": 10.6,
+  "model_r2": -0.0831,
+  "baseline_r2": -0.3354,
+  "interpretation": "The model improves error over the seasonal-naive baseline, but the negative R\u00b2 indicates that predictive performance remains limited. Forecasts should therefore be treated as planning signals rather than guaranteed outcomes."
+}

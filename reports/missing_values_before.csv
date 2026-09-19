@@ -1,0 +1,9 @@
+column,missing_count,missing_percentage
+complaint_id,0,0.0
+category,0,0.0
+sub_category,0,0.0
+grievance_date,0,0.0
+ward_name,0,0.0
+grievance_status,54,0.04
+staff_remarks,54,0.04
+staff_name,54,0.04

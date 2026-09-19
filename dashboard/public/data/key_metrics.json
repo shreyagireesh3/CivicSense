@@ -1,0 +1,54 @@
+[
+  {
+    "metric": "total_grievances",
+    "value": "126974"
+  },
+  {
+    "metric": "unique_categories",
+    "value": "31"
+  },
+  {
+    "metric": "unique_subcategories",
+    "value": "179"
+  },
+  {
+    "metric": "unique_wards",
+    "value": "199"
+  },
+  {
+    "metric": "closed_rate_percent",
+    "value": "86.17"
+  },
+  {
+    "metric": "top_category",
+    "value": "Electrical"
+  },
+  {
+    "metric": "top_category_share_percent",
+    "value": "33.19"
+  },
+  {
+    "metric": "top_subcategory",
+    "value": "Street Light Not Working"
+  },
+  {
+    "metric": "top_subcategory_share_percent",
+    "value": "31.38"
+  },
+  {
+    "metric": "top_ward",
+    "value": "Horamavu"
+  },
+  {
+    "metric": "top_2_category_share_percent",
+    "value": "63.23"
+  },
+  {
+    "metric": "top_3_category_share_percent",
+    "value": "74.36"
+  },
+  {
+    "metric": "top_5_category_share_percent",
+    "value": "85.38"
+  }
+]

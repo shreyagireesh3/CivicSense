@@ -1,0 +1,1 @@
+complaint_id,grievance_date,category,sub_category,ward_name,grievance_status,year,month,month_name,quarter,day_of_week,week,is_closed,is_reopened,is_open,category_complaint_count,ward_complaint_count,ward_category_count
